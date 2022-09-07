@@ -15,6 +15,7 @@ Specialist with good communication skill. I'm always looking to gain new knowled
 ## Education:
 
 **Major:** Automation of Technological Processes and Production
+
 **Courses:** RS-school JavaScript/Frontend Pre-School 2022
 
 ## Code Example:
